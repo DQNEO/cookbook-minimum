@@ -10,4 +10,4 @@ But it will generates lots of empty directories and nonsense .gitkeep files.
 
 Forget all about `knife cookbook`.
 
-All you need is only a file `recipes/default.rb` for a cookbook :)
+All you need is only one file `recipes/default.rb` to compose a cookbook :)
