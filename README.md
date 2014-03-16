@@ -6,7 +6,7 @@ Traditionally, we are taught to use knife command to create a cookbook
 knife cookbook create hello -o cookbooks
 ```
 
-But it will generates lots of empty directories and nonsense .gitkeep files.
+But it will generate lots of empty directories and nonsense .gitkeep files.
 
 Forget all about `knife cookbook`.
 
